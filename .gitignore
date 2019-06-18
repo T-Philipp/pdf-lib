@@ -1,22 +1,3 @@
-# Dependencies
-node_modules
-
-# Build Dir
-compiled
-
-# Test Coverage Data
-coverage
-
-# Error logs
-yarn-error.log
-
-# Misc
 .DS_Store
-debug*
-.rpt2_cache/
-umd_test
-
-# Profiling
-isolate*.log
-profile-res.txt
-flamegraph.html
+node_modules
+123456789.pdf
